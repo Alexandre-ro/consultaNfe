@@ -1,0 +1,11 @@
+C:\Users\alexa\Documents\GED\ProtipoConsultaWebService\bin\Debug\ProtipoConsultaWebService.exe.config
+C:\Users\alexa\Documents\GED\ProtipoConsultaWebService\bin\Debug\ProtipoConsultaWebService.exe
+C:\Users\alexa\Documents\GED\ProtipoConsultaWebService\bin\Debug\ProtipoConsultaWebService.pdb
+C:\Users\alexa\Documents\GED\ProtipoConsultaWebService\obj\Debug\ProtipoConsultaWebService.csprojAssemblyReference.cache
+C:\Users\alexa\Documents\GED\ProtipoConsultaWebService\obj\Debug\ProtipoConsultaWebService.Properties.Resources.resources
+C:\Users\alexa\Documents\GED\ProtipoConsultaWebService\obj\Debug\ProtipoConsultaWebService.csproj.GenerateResource.cache
+C:\Users\alexa\Documents\GED\ProtipoConsultaWebService\obj\Debug\ProtipoConsultaWebService.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\GED\ProtipoConsultaWebService\obj\Debug\ProtipoConsultaWebService.exe
+C:\Users\alexa\Documents\GED\ProtipoConsultaWebService\obj\Debug\ProtipoConsultaWebService.pdb
+C:\Users\alexa\Documents\GED\ProtipoConsultaWebService\bin\Debug\MetroFramework.dll
+C:\Users\alexa\Documents\GED\ProtipoConsultaWebService\obj\Debug\ProtipoConsultaWebService.csproj.CopyComplete
